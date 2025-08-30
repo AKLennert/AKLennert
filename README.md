@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/banner.png" alt="Banner" width="100%"/>
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/Pfp.png" alt="Profile Picture" width="150"/>
-</p>
-
 ## About Me
 
 Experienced software developer with a passion for building scalable solutions and exploring new technologies. I enjoy collaborating on innovative projects and continuously improving my skills. Inspired by creativity and a touch of fantasy, I bring a unique perspective to every team.
