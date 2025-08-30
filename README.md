@@ -1,9 +1,9 @@
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/banner.png" alt="Banner" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/Pfp.png" alt="Profile Picture" width="150" style="border-radius:50%; box-shadow:0 0 10px #6e44ff;"/>
+<p>
+  <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/Pfp.png" alt="Profile Picture" width="150"/>
 </p>
 
 ## About Me
@@ -13,18 +13,22 @@ Experienced software developer with a passion for building scalable solutions an
 ## Skills & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-## Pinned Repositories
+## My favorite works
 
 <p>
   <a href="https://github.com/AKLennert/NASA-Wiki-mockup">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKLennert&repo=NASA-Wiki-mockup" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKLennert&repo=NASA-Wiki-mockup" />
   </a>
   <a href="https://github.com/AKLennert/CBZ-to-PDF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKLennert&repo=CBZ-to-PDF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKLennert&repo=CBZ-to-PDF" />
   </a>
 
 </p>
@@ -37,9 +41,9 @@ Experienced software developer with a passion for building scalable solutions an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKLennert&theme=github_dark"/>
 </p>
 
-## Spotify & Coding Activity
+## What am i listening to?
 
 <p>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kzm7b9z3ysdmgimc1ljjvy8hl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AKLennert&theme=github-compact"/>
+
 </p>
