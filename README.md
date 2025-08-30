@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AKLennert/AKLennert/main/assets/banner-slim.png" alt="Banner" width="100%"/>
 </p>
 
 ## About Me
